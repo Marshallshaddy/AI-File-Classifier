@@ -1,0 +1,2783 @@
+--- Text from file: StockReport_2016-07.pdf ---
+Stock Report for 2016-07
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+Produce
+Produce
+Produce
+
+Product
+
+‘Chang
+Chartreuse verte
+Guarand Fantéstica
+Lakkalikoori
+
+‘Outback Lager
+Steeleye Stout
+
+Chef Anton's Gumbo Mix
+Louisiana Fiery Hot
+Original Frankfurter.
+Maxilaku
+
+Pavlova
+
+‘Schoggi Schokolade
+
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+‘Camembert Pierrot
+Geitost
+
+Gorgonzola Telino
+Mascarpone Fabioli
+Mozzarella di Giovanni
+‘Queso Cabrales
+
+‘Queso Manchego La
+Raclette Courdavault
+Gnocchi di nonna Alice
+Gustaf's Knaickebrod
+Ravioli Angelo
+‘Singaporean Hokkien.
+Alice Mutton
+
+Perth Pasties
+
+até chinois
+
+‘Thoringer Rostbratwurst
+Longlife Tofu
+
+Manjimup Dried Apples
+Tofu
+
+Units Sold
+
+105
+48
+43
+15
+4a
+20
+7
+38
+ar
+40
+95
+25
+40
+30
+
+Units in Stock
+
+7
+69
+20
+
+Unit Price
+
+195
+
+32.8
+
+123.79
+
+23.25
+
+
+--- Text from file: StockReport_2016-08.pdf ---
+Stock Report for 2016-08
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+
+Product
+
+Chai
+Guarand Fantéstica
+Ipoh Coffee
+
+Lakkalikoori
+
+Laughing Lumberjack.
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Steeleye Stout
+
+Aniseed Syrup
+
+Chef Anton's Gumbo Mix
+Genen Shouyu
+
+Gula Malacca
+
+Original Frankfurter.
+Vegie-spread
+
+Maxilaku
+
+Pavlova
+
+‘Schoggi Schokolade
+‘Scottish Longbreads
+Sir Rodney's Marmalade
+Tarte au sucre
+
+Teatime Chocolate.
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Mozzarella di Giovanni
+Raclette Courdavault
+Ravioli Angelo
+Wimmers gute.
+
+Alice Mutton
+
+Perth Pasties
+
+até chinois
+
+‘Thoringer Rostbratwurst
+Tourtigre
+
+Units Sold
+
+63
+40
+
+Units in Stock
+
+39
+20
+7
+
+Unit Price
+
+775
+
+
+--- Text from file: StockReport_2016-09.pdf ---
+Stock Report for 2016-09
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+Produce
+‘Seafood
+‘Seafood
+‘Seafood
+‘Seafood
+‘Seafood
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Ipoh Coffee
+
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Chef Anton's Cajun.
+Grandma's Boysenberry.
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Maxilaku
+
+Pavlova
+
+‘Scottish Longbreads
+Tarte au sucre
+
+Teatime Chocolate.
+Flotemysost
+Gudbrandsdalsost
+Mascarpone Fabioli
+Mozzarella di Giovanni
+‘Queso Cabrales
+Raclette Courdavault
+Gnocchi di nonna Alice
+‘Singaporean Hokkien.
+Alice Mutton
+
+Perth Pasties
+
+‘Thoringer Rostbratwurst
+Tourtigre
+
+Rossle Sauerkraut
+Boston Crab Meat
+‘Camarvon Tigers
+Escargots de Bourgogne
+Inlagd it
+
+Jack's New England.
+
+Units Sold
+
+20
+40
+20
+56
+55
+10
+“4
+20
+30
+30
+30
+
+Units in Stock
+
+39
+7
+
+Unit Price
+
+18
+19
+18
+46
+15
+775
+“4
+22
+25
+21.05
+7
+20
+1745
+125
+493
+92
+215
+36
+32
+348
+2
+
+55
+38
+“4
+39
+32.8
+123.79
+745
+456
+184
+625
+13.25
+19
+9.65
+
+
+--- Text from file: StockReport_2016-10.pdf ---
+Stock Report for 2016-10
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+
+Product Units Sold
+‘Chang 56
+Chartreuse verte 4
+Cote de Blaye 20
+Ipoh Coffee 40
+Lakkalikoori 51
+Rhonbrau Klosterbier 50.
+Steeleye Stout 80
+Chef Anton's Cajun. 82
+Genen Shouyu 5
+Grandma's Boysenbery.. 6
+Louisiana Fiery Hot 40
+Vegie-spread 80
+Gumbar Gummibarchen 74
+NuNuCa NuB-Nougat-Crema
+Pavlova 2
+‘Scottish Longbreads 24
+Sir Rodney's Scones 10
+Tarte au sucre 28
+Teatime Chocolate. 10
+Zaanse koeken 16
+Flotemysost 70
+Geitost 8
+Gorgonzola Telino 85
+Mascarpone Fabioli 6
+Mozzarella di Giovanni 90
+‘Queso Cabrales 50
+Raclette Courdavaut 58
+Filo Mix 28
+Gnocchi dinonna Alice 12
+Ravioli Angelo 16
+‘Singaporean Hokkien. 10
+Tunnbrod 40
+Wimmers gute. 50
+Alice Mutton 98
+
+Units in Stock
+
+7
+69
+7
+7
+87
+128
+20
+53
+39
+120
+76
+24
+
+Unit Price
+
+19
+18
+263.5
+46
+
+18
+775
+18
+22
+155
+25
+21.05
+43.9
+31.23
+
+1745
+125
+
+493
+
+215
+
+125
+
+
+--- Text from file: StockReport_2016-11.pdf ---
+Stock Report for 2016-11
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+Produce
+
+Product
+
+Chai
+Chartreuse verte
+
+Cote de Blaye
+
+Guarand Fantastica
+Lakkalikoori
+
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Chef Anton's Cajun.
+Gula Malacca
+
+Louisiana Fiery Hot
+Northwoods Cranberry.
+Original Frankfurter.
+(Gumbar Gummibarchen
+Maxilaku
+
+Units Sold
+
+ar
+104
+80
+45
+2
+18
+46
+38
+7
+30
+140
+2
+16
+38
+
+NuNuCa Nu8-Nougat-Cremé0
+
+Pavlova
+Sir Rodney's Scones
+Teatime Chocolate.
+Valkoinen suklaa
+‘Camembert Pierrot
+Flotemysost
+Gorgonzola Telino
+Gudbrandsdalsost
+‘Queso Cabrales
+Gnocchi di nonna Alice
+Ravioli Angelo
+‘Singaporean Hokkien.
+Tunnbrod
+
+Wimmers gute.
+
+Alice Mutton
+
+até chinois
+
+‘Thoringer Rostbratwurst
+Tourtigre
+
+Manjimup Dried Apples
+
+56
+
+Units in Stock
+
+39
+69
+7
+20
+87
+128
+1
+
+Unit Price
+
+
+--- Text from file: StockReport_2016-12.pdf ---
+Stock Report for 2016-12
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+
+Product Units Sold
+Chai 15
+‘Chang 25
+Chartreuse verte 20
+Cote de Blaye 40
+Guarand Fantastica 30
+Lakkalikoori 38
+‘Outback Lager 60
+‘Sasquatch Ale 10
+Steeleye Stout 70
+Chef Anton's Gumbo Mix 32
+Louisiana Fiery Hot 20
+Original Frankfurter. “4
+Vegie-spread 16
+Gumbar Gummibarchen 70
+NuNuCa NuB-Nougat-Crema
+‘Scottish Longbreads 68
+Sir Rodney's Marmalade 40
+Sir Rodney's Scones 10
+Tarte au sucre 30
+Valkoinen suklaa 15
+‘Camembert Pierrot 1
+Flotemysost 161
+Geitost 60
+Gorgonzola Telino 164
+Gudbrandsdalsost 588
+Mozzarella diGiovanni 87
+Raclette Courdavaut 12.
+Filo Mix 20
+Gnocchi dinonna Alice 38
+Tunnbrod 40
+Wimmers gute. 30
+Perth Pasties 130
+até chinois 135
+Thoringer Rostbratwurst 34
+
+Units in Stock
+
+39
+7
+69
+7
+20
+
+Unit Price
+
+263.5
+
+
+--- Text from file: StockReport_2017-01.pdf ---
+Stock Report for 2017-01
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chai
+‘Chang
+
+Cote de Blaye
+Lakkalikoori
+
+‘Outback Lager
+Steeleye Stout
+Aniseed Syrup
+
+Gula Malacca
+Louisiana Fiery Hot
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+Chocolade
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+Valkoinen suklaa
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+‘Queso Cabrales
+Raclette Courdavault
+Gnocchi di nonna Alice
+Ravioli Angelo
+‘Singaporean Hokkien.
+Tunnbrod
+
+Wimmers gute.
+
+Units Sold
+
+34
+60
+9
+34
+8
+95
+50
+40
+20
+45
+16
+100
+70
+72
+60
+2
+66
+92
+75
+42
+40
+85
+60
+75
+119
+“4
+38
+30
+118
+105
+
+Units in Stock
+
+39
+7
+7
+87
+15
+20
+8
+ar
+76
+32
+113
+24
+15
+
+Unit Price
+
+263.5
+
+33.25
+
+
+--- Text from file: StockReport_2017-02.pdf ---
+Stock Report for 2017-02
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+‘Chang
+Chartreuse verte
+Guarand Fantéstica
+Ipoh Coffee
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Steeleye Stout
+
+Gula Malacca
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Original Frankfurter.
+Sirop d'érable
+Chocolade
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Pavlova
+
+‘Schoggi Schokolade
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Mozzarella di Giovanni
+‘Queso Cabrales
+‘Queso Manchego La
+Raclette Courdavault
+Filo Mix
+
+Gnocchi di nonna Alice
+Gustaf's Knaickebrod
+Ravioli Angelo
+
+Units Sold
+
+55
+26
+20
+20
+18
+
+118
+
+51
+
+Units in Stock
+
+7
+69
+20
+7
+87
+15
+128
+1
+
+Unit Price
+
+19
+18
+45
+46
+18
+15
+775
+“4
+18
+19.45
+21.05
+7
+8
+285
+12.75
+31.23
+20
+1745
+43.9
+125
+
+493
+
+215
+
+125
+
+
+--- Text from file: StockReport_2017-03.pdf ---
+Stock Report for 2017-03
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Cote de Blaye
+
+Guarand Fantastica
+Ipoh Coffee
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Gula Malacca
+
+Louisiana Hot Spiced.
+Original Frankfurter.
+(Gumbar Gummibarchen
+Maxilaku
+
+Units Sold
+
+15
+60
+20
+30
+133
+18
+42
+72
+46
+38
+20
+16
+7
+60
+37
+30
+24
+
+NuNuCa Nu8-Nougat-Crema2
+
+Pavlova
+‘Scottish Longbreads
+Sir Rodney's Scones
+Teatime Chocolate.
+Valkoinen suklaa
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+‘Queso Cabrales
+Raclette Courdavault
+Gnocchi di nonna Alice
+‘Singaporean Hokkien.
+Tunnbrod
+
+Wimmers gute.
+
+53
+30
+38
+26
+25
+30
+60
+2
+2
+38
+30
+162
+50
+50
+36
+38
+
+Units in Stock
+
+39
+7
+69
+7
+20
+7
+87
+15
+128
+1
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2017-04.pdf ---
+Stock Report for 2017-04
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Cote de Blaye
+Guarand Fantastica
+Ipoh Coffee
+
+Laughing Lumberjack.
+‘Outback Lager
+Rhonbrau Klosterbier
+Steeleye Stout
+
+Chef Anton's Cajun.
+Genen Shouyu
+
+Gula Malacca
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Chocolade
+
+Maxilaku
+
+Units Sold
+
+40
+2
+10
+15
+37
+15
+
+15
+25
+
+NuNuCa Nu8-Nougat-Crema8
+
+Pavlova
+‘Schoggi Schokolade
+‘Scottish Longbreads
+
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+
+Zaanse koeken
+‘Camembert Pierrot
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+Mozzarella di Giovanni
+
+50
+120
+
+Units in Stock
+
+39
+7
+69
+7
+20
+7
+82
+15
+128
+20
+53
+
+Unit Price
+
+18
+19
+18
+263.5
+45
+46
+“4
+15
+775
+18
+22
+155
+19.45
+21.05
+
+
+--- Text from file: StockReport_2017-05.pdf ---
+Stock Report for 2017-05
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+Cote de Blaye
+Guarand Fantastica
+Ipoh Coffee
+Lakkalikoori
+
+Laughing Lumberjack.
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Steeleye Stout
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Gula Malacca
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Original Frankfurter.
+Sirop d'érable
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+Mozzarella di Giovanni
+‘Queso Cabrales
+‘Queso Manchego La
+
+Units Sold
+
+100
+
+Units in Stock
+
+39
+7
+20
+7
+87
+82
+15
+128
+1
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2017-06.pdf ---
+Stock Report for 2017-06
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+Produce
+
+Product
+
+Chai
+Chartreuse verte
+Guarand Fantéstica
+Lakkalikoori
+
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Steeleye Stout
+
+Genen Shouyu
+
+Gula Malacca
+Louisiana Fiery Hot
+Original Frankfurter.
+Vegie-spread
+
+Pavlova
+
+Tarte au sucre
+Teatime Chocolate.
+Zaanse koeken
+‘Camembert Pierrot
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+Mozzarella di Giovanni
+‘Queso Cabrales
+Raclette Courdavault
+Filo Mix
+
+Gnocchi di nonna Alice
+Ravioli Angelo
+‘Singaporean Hokkien.
+Wimmers gute.
+
+Alice Mutton
+
+Perth Pasties
+
+até chinois
+
+‘Thoringer Rostbratwurst
+Manjimup Dried Apples
+
+Units Sold
+
+10
+10
+
+10
+
+Units in Stock
+
+39
+69
+20
+87
+128
+1
+
+Unit Price
+
+
+--- Text from file: StockReport_2017-07.pdf ---
+Stock Report for 2017-07
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Cote de Blaye
+Guarand Fantastica
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+Steeleye Stout
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Genen Shouyu
+Louisiana Fiery Hot
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+Chocolade
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Pavlova
+
+‘Schoggi Schokolade
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+Gudbrandsdalsost
+Mozzarella di Giovanni
+‘Queso Cabrales
+Raclette Courdavault
+Filo Mix
+
+Gnocchi di nonna Alice
+
+Units Sold
+
+29
+
+2
+
+128
+
+Units in Stock
+
+39
+7
+69
+7
+20
+87
+15
+128
+20
+8
+53
+39
+76
+32
+113
+24
+15
+15
+10
+
+112
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2017-08.pdf ---
+Stock Report for 2017-08
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+Guarand Fantéstica
+Ipoh Coffee
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+Steeleye Stout
+
+Chef Anton's Cajun.
+Chef Anton's Gumbo Mix
+Grandma's Boysenberry.
+Gula Malacca
+
+Louisiana Fiery Hot
+Original Frankfurter.
+Sirop d'érable
+
+‘Gumbar Gummibarchen
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+
+Teatime Chocolate.
+Valkoinen suklaa
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+Gudbrandsdalsost
+Mozzarella di Giovanni
+‘Queso Cabrales
+
+‘Queso Manchego La
+Filo Mix
+
+Gnocchi di nonna Alice
+Gustaf's Knaickebrod
+‘Singaporean Hokkien.
+Tunnbrod
+
+Units Sold
+
+40
+100
+4a
+23
+20
+38
+38
+10
+30
+38
+15
+70
+10
+2
+38
+20
+38
+33
+or
+95
+50
+25
+30
+65
+20
+20
+
+Units in Stock
+
+39
+7
+69
+20
+7
+
+112
+
+Unit Price
+
+
+--- Text from file: StockReport_2017-09.pdf ---
+Stock Report for 2017-09
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chartreuse verte
+Cote de Blaye
+
+Ipoh Coffee
+Lakkalikoori
+
+Laughing Lumberjack.
+‘Outback Lager
+Rhonbrau Klosterbier
+Chef Anton's Cajun.
+Genen Shouyu
+
+Gula Malacca
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Original Frankfurter.
+(Gumbar Gummibarchen
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+‘Queso Manchego La
+Raclette Courdavault
+Filo Mix
+
+Gnocchi di nonna Alice
+Gustaf's Knaickebrod
+‘Singaporean Hokkien.
+Tunnbrod
+
+Wimmers gute.
+
+Units Sold
+
+23
+
+10
+2
+
+135
+
+Units in Stock
+
+69
+7
+7
+87
+82
+15
+128
+53
+
+Unit Price
+
+263.5
+
+
+--- Text from file: StockReport_2017-10.pdf ---
+Stock Report for 2017-10
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+‘Chang
+
+Guarana Fantastica
+Ipoh Coffee
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Steeleye Stout
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Chef Anton's Gumbo Mix
+Gula Malacca
+Louisiana Fiery Hot
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+Chocolade
+
+‘Gumbar Gummibarchen
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+‘Queso Cabrales
+‘Queso Manchego La
+Raclette Courdavault
+
+Units Sold
+
+70
+
+Units in Stock
+
+39
+7
+20
+7
+87
+15
+128
+1
+
+Unit Price
+
+775
+
+
+--- Text from file: StockReport_2017-11.pdf ---
+Stock Report for 2017-11
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+
+Product
+
+Chai
+‘Chang
+
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Steeleye Stout
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Grandma's Boysenberry.
+Gula Malacca
+Louisiana Fiery Hot
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+
+‘Gumbar Gummibarchen
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+Valkoinen suklaa
+Zaanse koeken
+‘Camembert Pierrot
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+Mozzarella di Giovanni
+‘Queso Cabrales
+Raclette Courdavault
+Filo Mix
+
+Gnocchi di nonna Alice
+Ravioli Angelo
+‘Singaporean Hokkien.
+Tunnbrod
+
+Units Sold
+
+588
+15
+50
+40
+20
+30
+38
+20
+25
+
+Units in Stock
+
+39
+7
+87
+15
+128
+1
+
+120
+
+113
+
+Unit Price
+
+775
+
+
+--- Text from file: StockReport_2017-12.pdf ---
+Stock Report for 2017-12
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+‘Chang
+Chartreuse verte
+
+Cote de Blaye
+
+Guarand Fantastica
+Ipoh Coffee
+
+Laughing Lumberjack.
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Steeleye Stout
+
+Aniseed Syrup
+
+Gula Malacca
+Louisiana Fiery Hot
+Louisiana Hot Spiced.
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Units Sold
+
+85
+148
+
+30
+2
+4
+
+NuNuCa NuB-Nougat-Cremé2
+
+Pavlova
+‘Schoggi Schokolade
+‘Scottish Longbreads
+Sir Rodney's Scones
+Tarte au sucre
+Teatime Chocolate.
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+Gorgonzola Telino
+Gudbrandsdalsost
+Mozzarella di Giovanni
+‘Queso Cabrales
+
+85
+40
+73
+40
+42
+74
+30
+15
+28
+149
+24
+40
+85
+
+Units in Stock
+
+7
+69
+7
+20
+7
+82
+15
+128
+1
+20
+
+Unit Price
+
+263.5
+
+775
+
+19.45
+21.05
+
+
+--- Text from file: StockReport_2018-01.pdf ---
+Stock Report for 2018-01
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Cote de Blaye
+
+Guarand Fantastica
+Ipoh Coffee
+
+Lakkalikoori
+
+‘Outback Lager
+Rhonbrau Klosterbier
+Steeleye Stout
+
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Chef Anton's Gumbo Mix
+Grandma's Boysenberry.
+Gula Malacca
+
+Louisiana Fiery Hot
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Chocolade
+
+‘Gumbar Gummibarchen
+
+Units Sold
+
+4
+62
+59
+70
+40
+4a
+1
+96
+20
+59
+
+105
+
+NuNuCa NuB-Nougat-Cremé1
+
+Pavlova
+‘Schoggi Schokolade
+‘Scottish Longbreads
+
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+
+Teatime Chocolate.
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+
+50
+10
+44
+
+Units in Stock
+
+39
+7
+69
+7
+20
+7
+87
+15
+128
+
+Unit Price
+
+263.5
+
+775
+
+125
+
+
+--- Text from file: StockReport_2018-02.pdf ---
+Stock Report for 2018-02
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product Units Sold
+Chai 20
+‘Chang 61
+Chartreuse verte 133
+Cote de Blaye 100
+Guarand Fantastica 146
+Lakkalikoori 10
+Laughing Lumberjack. 30
+‘Outback Lager 83
+Rhonbrau Klosterbier 134
+‘Sasquatch Ale 10
+Steeleye Stout 37
+Chef Anton's Cajun. 30
+Grandma's Boysenbery.. 50
+Louisiana Fiery Hot 64
+Northwoods Cranberry... 30
+Original Frankfurter. 65
+Sirop d'érable 50
+Gumbar Gummibarchen 20
+Maxilaku 87
+NuNuCa NuB-Nougat-Cremé
+Pavlova 63
+‘Scottish Longbreads 588
+Sir Rodney's Marmalade 20
+Sir Rodney's Scones «60
+Tarte au sucre 61
+Teatime Chocolate. 37
+Zaanse koeken 2
+‘Camembert Pierrot 100
+Flotemysost 55
+Geitost 70
+Gorgonzola Telino 38
+Gudbrandsdalsost 50
+Mascarpone Fabioli 6
+‘Queso Cabrales 20
+
+Units in Stock
+
+39
+7
+69
+7
+20
+87
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2018-03.pdf ---
+Stock Report for 2018-03
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+
+Cote de Blaye
+
+Guarand Fantastica
+Ipoh Coffee
+
+Lakkalikoori
+
+Laughing Lumberjack.
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Steeleye Stout
+
+Chef Anton's Cajun.
+Chef Anton's Gumbo Mix
+Grandma's Boysenberry.
+Gula Malacca
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Units Sold
+
+at
+10
+30
+
+NuNuCa Nu8-Nougat-Crema4
+
+Pavlova
+‘Schoggi Schokolade
+‘Scottish Longbreads
+
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+
+Teatime Chocolate.
+Valkoinen suklaa
+Zaanse koeken
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+173
+55
+80
+70
+148
+156
+19
+33
+49
+110
+38
+22
+
+Units in Stock
+
+39
+7
+69
+7
+20
+7
+
+112
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2018-04.pdf ---
+Stock Report for 2018-04
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+
+Product
+
+Chai
+‘Chang
+
+Cote de Blaye
+
+Guarand Fantastica
+Ipoh Coffee
+
+Lakkalikoori
+
+Laughing Lumberjack.
+‘Outback Lager
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+
+Steeleye Stout
+
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Chef Anton's Gumbo Mix
+Gula Malacca
+
+Louisiana Fiery Hot
+Northwoods Cranberry.
+Original Frankfurter.
+Sirop d'érable
+Vegie-spread
+
+‘Gumbar Gummibarchen
+Maxilaku
+
+Units Sold
+
+104
+201
+25
+140
+60
+146
+
+at
+62
+
+NuNuCa NuB-Nougat-Crema5
+
+‘Scottish Longbreads
+Sir Rodney's Marmalade
+Sir Rodney's Scones
+Tarte au sucre
+
+Teatime Chocolate.
+‘Camembert Pierrot
+Flotemysost
+
+Geitost
+
+Gorgonzola Telino
+Gudbrandsdalsost
+Mascarpone Fabioli
+
+44
+15
+103
+33
+85
+178
+197
+55
+15
+66
+85
+
+Units in Stock
+
+39
+7
+7
+20
+7
+87
+82
+15
+128
+1
+
+Unit Price
+
+263.5
+
+775
+
+
+--- Text from file: StockReport_2018-05.pdf ---
+Stock Report for 2018-05
+
+Category
+
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Condiments
+Confections
+Confections
+Confections
+Confections
+Confections
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Dairy Products
+Grains/Cereals
+Grains/Cereals
+Grains/Cereals
+MeatPoultry
+MeatPoultry
+MeatPoultry
+MeatPoultry
+Produce
+Produce
+Produce
+
+Product
+
+Chai
+‘Chang
+
+Chartreuse verte
+Guarand Fantéstica
+Ipoh Coffee
+Lakkalikoori
+
+Rhonbrau Klosterbier
+‘Sasquatch Ale
+Aniseed Syrup
+
+Chef Anton's Cajun.
+Grandma's Boysenberry.
+Louisiana Hot Spiced.
+Northwoods Cranberry.
+Original Frankfurter.
+Pavlova
+
+‘Scottish Longbreads
+Sir Rodney's Marmalade
+Teatime Chocolate.
+Valkoinen suklaa
+‘Camembert Pierrot
+Gorgonzola Telino
+Mascarpone Fabioli
+‘Queso Cabrales
+‘Queso Manchego La
+Filo Mix
+
+Tunnbrod
+
+Wimmers gute.
+
+Alice Mutton
+
+Perth Pasties
+
+até chinois
+
+Tourtigre
+
+Rossle Sauerkraut
+Tofu
+
+Uncle Bob's Organic.
+
+Units Sold
+
+40
+
+Units in Stock
+
+39
+7
+69
+20
+
+Unit Price
+
+775
+
+
