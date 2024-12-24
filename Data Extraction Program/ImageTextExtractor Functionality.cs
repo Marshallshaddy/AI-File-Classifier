@@ -10,18 +10,18 @@ class Program
 
         var inputOutpuPairs = new[]
         {
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Inventory Report\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\InventoryReport-Output.txt"},
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Invoices\Images\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\InvoicesImages-Output.txt"},
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Invoices\Text\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\InvoicesText-Output.txt"},
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Orders\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\Orders-Output.txt"},
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Reciepts\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\Reciepts-Output.txt"},
-            new OutputFileConfig { inputFolderPath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\Shipping\",
-                                   outputFilePath = @"C:\Users\Marshall\source\repos\AI-File-Classifier\Data\ExtractedData\Shipping-Output.txt"}
+            new OutputFileConfig { inputFolderPath = @"/Data/RawData/Inventory Report/",
+                                   outputFilePath = @"Data/ExtractedData/InventoryReport-Output.txt"},
+            new OutputFileConfig { inputFolderPath = @"Data/RawData/Invoices/Images/",
+                                   outputFilePath = @"Data/ExtractedData/InvoicesImages-Output.txt"},
+            new OutputFileConfig { inputFolderPath = @"Data/RawData/Invoices/Text/",
+                                   outputFilePath = @"Data/ExtractedData/InvoicesText-Output.txt"},
+            new OutputFileConfig { inputFolderPath = @"Data/RawData/Orders/",
+                                   outputFilePath = @"Data/ExtractedData/Orders-Output.txt"},
+            new OutputFileConfig { inputFolderPath = @"Data/RawData/Reciepts/",
+                                   outputFilePath = @"Data/ExtractedData/Reciepts-Output.txt"},
+            new OutputFileConfig { inputFolderPath = @"Data/RawData/Shipping/",
+                                   outputFilePath = @"Data/ExtractedData/Shipping-Output.txt"}
         };
 
         foreach (var config in inputOutpuPairs)
