@@ -32,6 +32,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Data\Shuffled_AIFC_Dataset.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="tessdata\eng.traineddata">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -39,6 +42,7 @@
 
   <ItemGroup>
     <Folder Include="Data\ExtractedData\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
