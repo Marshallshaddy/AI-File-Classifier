@@ -29,7 +29,7 @@ Additionally, a closed proprietary software product will be launched based on th
 
 ## Features
 ### Current Features:
-1. **Machine Learning Model**: Uses ML.NET’s `SdcaMaximumEntropy` trainer for text classification (model only, classification program not yet implemented).
+1. **Machine Learning Model**: Uses ML.NET’s `LbfgsMaximumEntropy` trainer for text classification (model only, classification program not yet implemented).
 2. **Image and Text Extraction**: Leverages PDFium and Tesseract OCR to extract content from documents.
 3. **Preprocessing Tools**: Python-based utilities for data preparation and shuffling.
 
