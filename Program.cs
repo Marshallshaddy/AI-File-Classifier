@@ -19,7 +19,7 @@ TrainTestData dataSplit = _mlContext.Data.TrainTestSplit(_trainingDataView, test
 
 var pipeline = _mlContext.Transforms.Conversion.MapValueToKey("Label", "Label")
     .Append(_mlContext.Transforms.Text.FeaturizeText("Features", "Text"))
-    .Append(_mlContext.MulticlassClassification.Trainers.SdcaMaximumEntropy("Label", "Features"))
+    .Append(_mlContext.MulticlassClassification.Trainers.LbfgsMaximumEntropy("Label", "Features"))
     .Append(_mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabel"));
 
 Console.WriteLine("=============== Training the model ===============");

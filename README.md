@@ -93,17 +93,16 @@ Additionally, a closed proprietary software product will be launched based on th
 
 Contributions are welcome! To contribute:
 
-1. Fork the repository.
-2. Create a new branch for your feature:
+1. Create a new branch for your feature:
    ```bash
    git checkout -b feature-name
    ```
-3. Commit your changes and push:
+2. Commit your changes and push:
    ```bash
    git commit -m "Add new feature"
    git push origin feature-name
    ```
-4. Open a Pull Request on GitHub.
+3. Open a Pull Request on GitHub.
 
 ---
 
